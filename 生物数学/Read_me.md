@@ -13,3 +13,5 @@ https://share.dyweb.sjtu.cn/course/16716
 ![image](https://github.com/user-attachments/assets/0c05aec5-ac54-4a0a-a93e-94b2ba00f6fd)
 只下载了左上角的
 
+4,sjtu本科数学系或者工科的数学课:
+https://share.dyweb.sjtu.cn/search?q=%E7%BB%9F%E8%AE%A1
