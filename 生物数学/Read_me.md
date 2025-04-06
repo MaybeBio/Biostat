@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/a7a2f462-8e32-4548-ab31-8a5a4696293d)
-
 1,SPSS软件安装：
 https://github.com/zuster/EconometricsResources/blob/master/Soft/Spss.md
 
